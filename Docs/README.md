@@ -73,7 +73,7 @@ This project solves these problems by providing:
 **Example Visuals:**  
 
 **Funding by Sector:**  
-![Funding by Sector].\images\sector_funding.png
+![Funding by Sector](https://github.com/thelawalmicheal/nigeria-startup-funding-analysis/blob/main/images/sector_funding.png))
 
 **Investor Distribution by Funding Size:**  
 ![Investor Distribution](C:\Users\BDM2\Downloads\Business_Funding_Project\images\investor_distribution.png)
