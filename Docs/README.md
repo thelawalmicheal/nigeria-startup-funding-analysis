@@ -76,10 +76,10 @@ This project solves these problems by providing:
 ![Funding by Sector](https://github.com/thelawalmicheal/nigeria-startup-funding-analysis/blob/main/images/sector_funding.png))
 
 **Investor Distribution by Funding Size:**  
-![Investor Distribution](C:\Users\BDM2\Downloads\Business_Funding_Project\images\investor_distribution.png)
+![Investor Distribution](https://github.com/thelawalmicheal/nigeria-startup-funding-analysis/blob/main/images/investor_distribution.png)
 
 **Top Funded Startups:**  
-![Top Funded Startups](C:\Users\BDM2\Downloads\Business_Funding_Project\images\top_funded_startups.png)
+![Top Funded Startups](https://github.com/thelawalmicheal/nigeria-startup-funding-analysis/blob/main/images/top_funded_startups.png)
 
 
 ---
