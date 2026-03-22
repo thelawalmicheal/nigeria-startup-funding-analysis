@@ -146,6 +146,6 @@ Python (pandas, numpy), Data Cleaning, Feature Engineering, Exploratory Data Ana
 
 ## How to Explore
 1. Clone this repository  
-2. Open `Business_Funding_Analysis.ipynb` to explore preprocessing and analysis  
+2. Open `Data_Preprocessing` to explore preprocessing and analysis  
 3. Open `PowerBI_Dashboard.pbix` for interactive visual insights  
 4. PNG images in `/images/` folder can be used for quick visuals  
