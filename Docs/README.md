@@ -146,6 +146,6 @@ Python (pandas, numpy), Data Cleaning, Feature Engineering, Exploratory Data Ana
 
 ## How to Explore
 1. Clone this repository  
-2. Open `[Data_Preprocessing](https://github.com/thelawalmicheal/nigeria-startup-funding-analysis/blob/main/notebooks/Data_Preprocessing.ipynb)` to explore preprocessing and analysis  
-3. Open `PowerBI_Dashboard.pbix` for interactive visual insights  
-4. PNG images in `/images/` folder can be used for quick visuals  
+2. Open [Data_Preprocessing](https://github.com/thelawalmicheal/nigeria-startup-funding-analysis/blob/main/notebooks/Data_Preprocessing.ipynb) to explore preprocessing and analysis  
+3. Open [PowerBI_Dashboard.pbix](https://github.com/thelawalmicheal/nigeria-startup-funding-analysis/blob/main/Dashboard/PowerBI_Business_Funding.pbix)` for interactive visual insights  
+4. PNG [images](https://github.com/thelawalmicheal/nigeria-startup-funding-analysis/tree/main/images) in folder can be used for quick visuals  
